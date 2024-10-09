@@ -31,3 +31,74 @@
 8. **¿El aparejo utiliza sillares pequeños o mampuestos escuadrados en hiladas?**
     - **Sí:** Se trata de un aparejo **Opus vittatum**.
     - **No:** Basándose en la información proporcionada, no se puede determinar el tipo de aparejo. 
+
+```
+          ┌───────────────────────────────┐
+          │ ¿El aparejo utiliza ladrillos? │
+          └───────────────┬───────────────┘
+                          │
+             ┌────────────┴───────────┐
+             │                        │
+           ┌─►Sí                      No◄─┐
+           │   │                         │
+           │   ▼                         ▼
+ ┌────────────────────────┐    ┌─────────────────────────────┐
+ │ ¿Ladrillos en forma de  │    │ ¿Usa argamasa mezclada con  │
+ │ espina?                 │    │ piedra?                     │
+ └───────────────┬─────────┘    └───────────────┬─────────────┘
+                 │                             │
+          ┌──────▼───────┐                     ▼
+          │ Sí           No◄────┐      ┌─────────────────────┐
+          │                     │      │ Aparejo             │
+          ▼                     ▼      │ Opus cementicium    │
+ ┌───────────────┐    ┌───────────────────────────┐   ┌──────┴─────┐
+ │ Aparejo       │    │ ¿Ladrillos bien dispuestos│   │ ¿El aparejo│
+ │ Opus spicatum │    │ junto a sillares?         │   │ usa mampuestos│
+ └───────────────┘    └───────────────┬───────────┘   │ unidos?      │
+                                      │               └──────────────┘
+                                 ┌────▼─────┐               │
+                                 │ Sí       │               ▼
+                                 │          │      ┌──────────────────┐
+                                 ▼          ▼      │ Aparejo           │
+                       ┌───────────────────┐       │ Opus incertum     │
+                       │ Aparejo           │       └──────┬────────────┘
+                       │ Opus mixtum       │              │
+                       └───────────────────┘      ┌─────▼─────┐
+                                                  │ No        │
+                                                  │           ▼
+                                            ┌────────────────────────┐
+                                            │ ¿Aparejo formado por    │
+                                            │ sillares bien dispuestos?│
+                                            └─────────────┬───────────┘
+                                                          │
+                                                          ▼
+                                                ┌───────────────────┐
+                                                │ Aparejo Opus       │
+                                                │ quadratum          │
+                                                └─────────────┬──────┘
+                                                              │
+                                                       ┌──────▼─────┐
+                                                       │ ¿Aparejo en│
+                                                       │ forma de red│
+                                                       │ de rombos?  │
+                                                       └──────┬──────┘
+                                                              │
+                                                              ▼
+                                                    ┌───────────────────┐
+                                                    │ Aparejo Opus       │
+                                                    │ reticulatum        │
+                                                    └───────┬────────────┘
+                                                            │
+                                                   ┌────────▼────────┐
+                                                   │ ¿Usa sillares   │
+                                                   │ pequeños o       │
+                                                   │ mampuestos en    │
+                                                   │ hiladas?         │
+                                                   └───────┬──────────┘
+                                                           │
+                                                           ▼
+                                                 ┌───────────────────┐
+                                                 │ Aparejo Opus       │
+                                                 │ vittatum           │
+                                                 └───────────────────┘
+```
